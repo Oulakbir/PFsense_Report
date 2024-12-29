@@ -1,4 +1,4 @@
-**Rapport : Installation de PfSense sur VirtualBox**
+*Rapport : Installation de PfSense sur VirtualBox**
 
 ---
 
@@ -15,7 +15,10 @@ Avant de commencer l’installation, anous devons se disposer des éléments sui
 - **Oracle VirtualBox** : Téléchargez et installez la dernière version d’Oracle VirtualBox à partir du site officiel.
 - **Image PfSense** : Téléchargez l’image ISO de PfSense à partir de [ce lien](https://getlabsdone.com/how-to-install-pfsense-on-virtualbox/). Il faut choisir le programme d’installation d’images DVD (ISO) et le miroir le plus proche de votre emplacement.
 - voilà l'image que j'ai utilisée:
+
+
 ![image](https://github.com/user-attachments/assets/ce30cf65-a6fc-4953-a15d-7f1f4e31413f)
+
 
 ---
 
@@ -25,6 +28,7 @@ Avant de commencer l’installation, anous devons se disposer des éléments sui
 2. Donnez un nom à la VM, par exemple « PfSense », et choisissez « BSD » comme type et « FreeBSD (64 bits) » comme version.
 3. Attribuez au moins **1024 Mo de RAM** à la machine virtuelle.
 4. Créez un disque dur virtuel de type **VDI** avec une taille d’environ **10 Go**.
+
 
 ![Screenshot 2024-12-27 111325](https://github.com/user-attachments/assets/50559f09-83f7-4669-b715-ee6aa9a513c4)
 
@@ -37,6 +41,7 @@ Avant de commencer l’installation, anous devons se disposer des éléments sui
 2. Configurez deux adaptateurs réseau :
    - **Adaptateur 1** : Sélectionnez « NAT » pour permettre à PfSense de se connecter à Internet.
    - **Adaptateur 2** : Sélectionnez « Réseau interne » (Internal Network) pour la connexion LAN.
+
 
 ![Screenshot 2024-12-27 111401](https://github.com/user-attachments/assets/c4297794-7d96-4e16-aee1-378ecc71d11f)
 
@@ -85,9 +90,12 @@ Avant de commencer l’installation, anous devons se disposer des éléments sui
 3. Vérifiez que chaque machine peut communiquer avec PfSense et accéder à Internet via l’interface LAN.
 ![image](https://github.com/user-attachments/assets/3b36099f-bca5-4d3c-8b71-49a61ad19852)
 
+
 ---
 
 **Conclusion**
 
 Ce TP vous a guidé à travers les étapes essentielles pour installer et configurer PfSense sur VirtualBox. En configurant les interfaces WAN et LAN, puis en simulant des machines clientes, nous avons créé un environnement réaliste pour tester les fonctionnalités réseau et la connectivité. PfSense s’est avéré être une solution fiable pour gérer et protéger un réseau virtuel. Vous pouvez maintenant ajouter des captures d’écran des résultats obtenus pour documenter chaque étape.
+---
+Réalisé par : Ilham OULAKBIR
 
