@@ -96,6 +96,9 @@ Avant de commencer l’installation, anous devons se disposer des éléments sui
 **Conclusion**
 
 Ce TP vous a guidé à travers les étapes essentielles pour installer et configurer PfSense sur VirtualBox. En configurant les interfaces WAN et LAN, puis en simulant des machines clientes, nous avons créé un environnement réaliste pour tester les fonctionnalités réseau et la connectivité. PfSense s’est avéré être une solution fiable pour gérer et protéger un réseau virtuel. Vous pouvez maintenant ajouter des captures d’écran des résultats obtenus pour documenter chaque étape.
----
+
+
+
+
 Réalisé par : Ilham OULAKBIR
 
