@@ -53,10 +53,9 @@ Avant de commencer l’installation, anous devons se disposer des éléments sui
 
 ![image](https://github.com/user-attachments/assets/e85e5eaa-07ae-40ae-b279-4e407188c318)
 
-![image](https://github.com/user-attachments/assets/cc2e612e-8915-417d-a44f-ee6bf51ff43c)
-
 ![image](https://github.com/user-attachments/assets/989285a4-0b03-48e8-b6ab-9847d6c1669d)
 
+![image-86](https://github.com/user-attachments/assets/80d0c2da-f91f-4df6-95c8-aa42f84e4cf4)
 
 ![Screenshot 2024-12-27 111443](https://github.com/user-attachments/assets/8f0a76d8-3160-4925-bed0-002197965f17)
 
